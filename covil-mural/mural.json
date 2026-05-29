@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-05-29T12:00:00Z",
+  "meta": {
+    "title": "Mural Darkzera",
+    "subtitle": "Curadoria de bandas, coletivos, casas e marcas da cena alternativa.",
+    "contactEmail": "contato@radiodarkzera.com",
+    "contactSubject": "Mural Darkzera — envio de perfil"
+  },
+  "categories": [
+    {
+      "id": "bandas",
+      "label": "Bandas independentes",
+      "sortOrder": 1
+    },
+    {
+      "id": "djs",
+      "label": "DJs",
+      "sortOrder": 2
+    },
+    {
+      "id": "casas",
+      "label": "Casas de show",
+      "sortOrder": 3
+    },
+    {
+      "id": "brechos",
+      "label": "Brechós alternativos",
+      "sortOrder": 4
+    },
+    {
+      "id": "marcas",
+      "label": "Marcas underground",
+      "sortOrder": 5
+    },
+    {
+      "id": "tatuadores",
+      "label": "Tatuadores",
+      "sortOrder": 6
+    },
+    {
+      "id": "designers",
+      "label": "Designers",
+      "sortOrder": 7
+    },
+    {
+      "id": "selos",
+      "label": "Selos independentes",
+      "sortOrder": 8
+    },
+    {
+      "id": "vinil",
+      "label": "Lojas de vinil e CD",
+      "sortOrder": 9
+    },
+    {
+      "id": "eventos",
+      "label": "Eventos",
+      "sortOrder": 10
+    },
+    {
+      "id": "fotografos",
+      "label": "Fotógrafos da cena",
+      "sortOrder": 11
+    },
+    {
+      "id": "coletivos",
+      "label": "Produtores e coletivos",
+      "sortOrder": 12
+    }
+  ],
+  "entries": [
+    {
+      "id": "banda-nebula-nocturna",
+      "categoryId": "bandas",
+      "name": "Nebula Nocturna",
+      "city": "Curitiba",
+      "region": "PR",
+      "tags": ["darkwave", "synth", "post-punk"],
+      "summary": "Projeto autoral com estética noturna e arranjos sintéticos. Atuação em circuito independente do Sul.",
+      "featured": true,
+      "publishedAt": "2026-05-20",
+      "links": {
+        "instagram": "https://instagram.com/exemplo",
+        "website": "https://exemplo.com"
+      }
+    },
+    {
+      "id": "casa-subterraneo",
+      "categoryId": "casas",
+      "name": "Subterrâneo Club",
+      "city": "São Paulo",
+      "region": "SP",
+      "tags": ["gótico", "industrial", "darkwave"],
+      "summary": "Casa de show com programação semanal dedicada à cena alternativa e eletrônica sombria.",
+      "featured": false,
+      "publishedAt": "2026-05-18",
+      "links": {
+        "instagram": "https://instagram.com/exemplo"
+      }
+    },
+    {
+      "id": "selo-umbra-digital",
+      "categoryId": "selos",
+      "name": "Umbra Digital",
+      "city": "Belo Horizonte",
+      "region": "MG",
+      "tags": ["selo", "metal", "punk"],
+      "summary": "Selo independente com foco em lançamentos físicos e digitais de artistas emergentes.",
+      "featured": false,
+      "publishedAt": "2026-05-15",
+      "links": {
+        "website": "https://exemplo.com"
+      }
+    }
+  ]
+}
