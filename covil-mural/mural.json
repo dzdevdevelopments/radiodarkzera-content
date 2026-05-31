@@ -1,12 +1,10 @@
-{
-  "schemaVersion": 1,
-  "updatedAt": "2026-05-29T12:00:00Z",
-  "meta": {
-    "title": "Mural Darkzera",
-    "subtitle": "Curadoria de bandas, coletivos, casas e marcas da cena alternativa.",
-    "contactEmail": "radiodarkzera@gmail.com",
-    "contactSubject": "Mural Darkzera — envio de perfil"
-  },
+"meta": {
+  "title": "Faça parte do Mural",
+  "heroDescription": "Ponto de encontro da Rádio Darkzera para unir e fortalecer a cena underground no Brasil e no mundo — conectando bandas, coletivos, casas, marcas e parceiros que sustentam a música alternativa.",
+  "subtitle": "O Mural Darkzera reúne projetos independentes da cena alternativa — do Brasil ao exterior. Cada perfil aprovado fortalece a rede: mais visibilidade para quem faz, mais referências para quem ouve. Se você representa um projeto ou conhece alguém que deveria estar aqui, envie uma sugestão.",
+  "contactEmail": "radiodarkzera@gmail.com",
+  "contactSubject": "Mural Darkzera — sugestão de perfil"
+}
   "categories": [
     {
       "id": "bandas",
